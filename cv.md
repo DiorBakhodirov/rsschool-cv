@@ -18,3 +18,15 @@
 
 My name is Diyor. I'm a student. I'm in my third year study of undergratuade degree. I've been learning English actively for 2 years and I'm preparing to take my IELTS exam. I'm hungry for new knowledges in development and I'm going to improve my skills and gain new abilities by teaching myself.
 
+### Skills
+
+---
+
++ HTML
++ CSS/SASS
++ BEM methodology
++ Figma (Basic)
++ JavaScript (Basic)
++ Git
++ Databases (Basic)
+
