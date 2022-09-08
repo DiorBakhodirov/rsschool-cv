@@ -46,6 +46,5 @@ const getSumOfSequence = (number) => {
 
 const result = getSumOfSequence(10);
 console.log('result', result);
-
 ```
 
