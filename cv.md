@@ -30,3 +30,22 @@ My name is Diyor. I'm a student. I'm in my third year study of undergratuade deg
 + Git
 + Databases (Basic)
 
+### **Code Example**
+
+---
+
+```
+const getSumOfSequence = (number) => {
+    const finalArray = [];
+    for (let i = 0; i <= number; i += 1) {
+        finalArray.push(i);
+    }
+
+    return finalArray[0] + finalArray[finalArray.length - 1];
+}
+
+const result = getSumOfSequence(10);
+console.log('result', result);
+
+```
+
